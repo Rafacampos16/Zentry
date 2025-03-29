@@ -1,6 +1,5 @@
-# Zentry by Rafa
-
-![Zentry by Rafa](https://zentry-byrafa.netlify.app/screenshot.png)  
+# Zentry 
+![Zentry by Rafa](logo.png)  
 [🔗 Acesse o site](https://zentry-byrafa.netlify.app)
 
 ## Sobre o Projeto
